@@ -1,4 +1,4 @@
-
+![That's me!](nameplate.gif)
 
 ## About
 Hello! I'm a CS undergrad at Texas A&M University interested in web and game dev.
