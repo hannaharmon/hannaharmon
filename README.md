@@ -1,14 +1,14 @@
 ![That's me!](nameplate.gif)
 
-<p align = center>
+<p align = "center">
   <a href="mailto:hanna.marie.harmon@gmail.com"><img height="32" width="32" src="https://cdn.simpleicons.org/gmail/black/white"/></a> &ensp;
   <a href="https://www.linkedin.com/in/hanna-harmon/"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/black/white"/></a> &ensp;
   <a href="https://github.com/hannaharmon"><img height="32" width="32" src="https://cdn.simpleicons.org/github/black/white"/></a>
 </p>
 
-## About
-Hello! I'm a CS undergrad at Texas A&M University interested in web and game dev.
-
+<p align = "center">
+  Hello! I'm a CS undergrad at Texas A&M University interested in web and game dev.
+</p>
 
 <!--
 **hannaharmon/hannaharmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
