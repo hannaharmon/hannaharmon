@@ -1,9 +1,9 @@
 ![That's me!](nameplate.gif)
 
 <p align = "center">
-  <a href="mailto:hanna.marie.harmon@gmail.com"><img height="32" width="32" src="https://cdn.simpleicons.org/gmail/white/black"/></a> &ensp;
-  <a href="https://www.linkedin.com/in/hanna-harmon/"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/white/black"/></a> &ensp;
-  <a href="https://github.com/hannaharmon"><img height="32" width="32" src="https://cdn.simpleicons.org/github/white/black"/></a>
+  <a href="mailto:hanna.marie.harmon@gmail.com"><img height="32" width="32" src="https://cdn.simpleicons.org/gmail/black/white"/></a> &ensp;
+  <a href="https://www.linkedin.com/in/hanna-harmon/"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/black/white"/></a> &ensp;
+  <a href="https://github.com/hannaharmon"><img height="32" width="32" src="https://cdn.simpleicons.org/github/black/white"/></a>
 </p>
 
 <p align = "center">
