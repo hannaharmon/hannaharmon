@@ -1,10 +1,10 @@
 ![That's me!](nameplate.gif)
 
 <p align = "center">
-  <a href="mailto:hanna.marie.harmon@gmail.com", target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/gmail/black/white"/></a> &ensp;
-  <a href="https://github.com/hannaharmon", target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/github/black/white"/></a> &ensp;
-  <a href="https://hannaharmon.itch.io", target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/itchdotio/black/white"/></a> &ensp;
-  <a href="https://www.linkedin.com/in/hanna-harmon/", target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/black/white"/></a> 
+  <a href="mailto:hanna.marie.harmon@gmail.com", target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/gmail/white"/></a> &ensp;
+  <a href="https://github.com/hannaharmon", target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/github/white"/></a> &ensp;
+  <a href="https://hannaharmon.itch.io", target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/itchdotio/white"/></a> &ensp;
+  <a href="https://www.linkedin.com/in/hanna-harmon/", target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/white"/></a> 
 </p>
 
 <p align = "center">
