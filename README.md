@@ -8,7 +8,7 @@
 </p>
 
 <p align = "center">
-  Hello! I'm a CS undergrad at Texas A&M University interested in AI, web dev, and game dev.
+  Hello! I'm a CS undergrad at Texas A&M University interested in web and game dev.
 </p>
 
 <!--
